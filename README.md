@@ -1,1 +1,1 @@
-# Pg-life-web-project
+# pglife.github.io
